@@ -1,2 +1,3 @@
-# HTML_CSS
- Meus projetos de HTML 05 e CSS3
+# Meus projetos de estudo de HTML e CSS
+ 
+ Atividades feitas durante o curso em vídeo e bootcamp na Dio.
